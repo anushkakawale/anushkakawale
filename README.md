@@ -52,16 +52,6 @@ I'm a passionate **Software Developer** with expertise in designing and building
 
 ---
 
-## 🔥 Featured Projects
-
-### **[Project Name](https://github.com/anushkakawale/project-repo)**
-A brief description of this standout project. Built with **React, Node.js, and MongoDB**.
-
-### **[Another Project](https://github.com/anushkakawale/another-repo)**
-A short but impactful description. Built with **Next.js, Firebase, and Tailwind CSS**.
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
