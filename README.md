@@ -68,4 +68,4 @@ I'm a passionate **Software Developer** with expertise in designing and building
 
 ---
 
-⭐️ **Let's collaborate and create something amazing!** 🚀
+⭐️ **Let's collaborate and create something amazing!** �
