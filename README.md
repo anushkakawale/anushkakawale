@@ -7,12 +7,12 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** who loves building scalable applications and exploring new technologies. I have expertise in **Full-Stack Development**, **Cloud Computing**, and **Machine Learning**.
+I'm a passionate **Software Developer** dedicated to building scalable applications and exploring cutting-edge technologies. I specialize in **Full-Stack Development**, **Cloud Computing**, and **Machine Learning**.
 
 - 🌱 I’m currently learning **AI & DevOps**
 - 💬 Ask me about **React, Node.js, and Cloud Computing**
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anushkakawale/) | [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-- ⚡ Fun fact: **I love solving complex problems & building impactful projects!**
+- ⚡ Fun fact: **I thrive on solving complex problems and crafting impactful solutions!**
 
 ---
 
@@ -60,6 +60,16 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ---
 
+## 🌟 Featured Projects
+
+🚀 **[Project Name](https://github.com/anushkakawale/project-repo)** - Brief project description.
+
+🔥 **[Another Project](https://github.com/anushkakawale/another-repo)** - Another short description.
+
+➡️ Check out more projects [here](https://github.com/anushkakawale?tab=repositories)!
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -68,6 +78,9 @@ I'm a passionate **Software Developer** who loves building scalable applications
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
 </p>
 
