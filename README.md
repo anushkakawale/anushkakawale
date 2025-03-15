@@ -2,6 +2,10 @@
 
 ### **Software Developer | Building Scalable Solutions**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" height="250">
+</p>
+
 ---
 
 ## 🚀 About Me
