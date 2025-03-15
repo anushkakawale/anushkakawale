@@ -1,17 +1,17 @@
 # Hi, I'm Anushka Kawale 👋
 
-### **Full-Stack Developer | AI & Cloud Enthusiast**
+### **Software Developer | Building Scalable Solutions**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable web applications and exploring cutting-edge technologies. My work revolves around **Web Development, Cloud Computing, and AI/ML**, and I thrive on solving real-world problems through code.
+I'm a passionate **Software Developer** with expertise in designing and building scalable, high-performance applications. I specialize in **Full-Stack Development, Cloud Computing, and AI/ML**, and I love turning complex problems into elegant solutions.
 
 - 🌱 Currently mastering **AI & DevOps**
 - 💡 Passionate about building **innovative solutions** that make an impact
 - 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkakawale/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-- ⚡ Fun fact: I love turning **complex problems** into **simple solutions**.
+- ⚡ Fun fact: I believe **clean code** is the foundation of great software.
 
 ---
 
@@ -44,10 +44,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushkakawale&show_icons=true&theme=github_dark" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkakawale&theme=github_dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkakawale&layout=compact&theme=github_dark" width="50%" />
 </p>
 
 ---
