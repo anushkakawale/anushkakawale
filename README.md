@@ -13,7 +13,7 @@
 
 I'm a **Software Developer** with a proven track record of designing and building scalable, high-performance applications. I specialize in **Full-Stack Development, Cloud Computing, and AI/ML**, and I love turning complex problems into elegant solutions. Here's why I stand out:
 
-- 🏆 **5+ Years of Experience** in building production-grade systems.
+- 🏆 **1 Year of Experience** in building production-grade systems.
 - 📦 **50+ Projects Shipped**, impacting over **1M users** globally.
 - 🌍 Collaborated with teams across **10+ countries**.
 - 🔥 **Currently Building**: A serverless AI platform on AWS (GitHub Stars ⭐ 500+).
